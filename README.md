@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Preventing Double Writes in a Node.js Text Summarization API with Structured Chat Results](posts/preventing-double-writes-in-a-node-js-text-summarization-api-with-struct.md)
 - [Express Node.js Tutorial: Private CSV Delivery Through S3-Compatible Storage](posts/express-node-js-tutorial-private-csv-delivery-through-s3-compatible-stor.md)
 - [Best Object Storage for Browser Uploads: A Presigned URL Runbook for US/EU SaaS](posts/best-object-storage-for-browser-uploads-a-presigned-url-runbook-for-us-e.md)
 - [Event Notifications Provider Comparison: Webhooks vs Polling for Email and SMS App Alerts](posts/event-notifications-provider-comparison-webhooks-vs-polling-for-email-an.md)
